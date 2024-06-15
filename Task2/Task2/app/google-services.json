@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237845997416",
+    "project_id": "mobisectask2",
+    "storage_bucket": "mobisectask2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237845997416:android:089cfb23112032691398dd",
+        "android_client_info": {
+          "package_name": "com.example.task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237845997416-sbq7vupb29rsn4n51lpfhgu5gevdsrp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9pBUTiWAyD1647OMGuoPFzHNKzWbx9kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237845997416-mu3k2jn8glh7onuodta6l8vquv7o1j4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
